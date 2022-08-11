@@ -18,7 +18,7 @@ Similar to [brokers](https://en.wikipedia.org/wiki/Broker), [currency exchanges]
 
 ![Schematic](./docs/schematic.png?raw=true "Schematic")
 
-- **HyperX** will be the module in charge of encryption, data serialization, connecting to remote APIs and managing connectors for each DCE
+- **HyperX** will be the module in charge of cryptography, data serialization, connecting to remote APIs and managing connectors for each account
 - **Connectors** will be responsible for everything specific to each API or DCE, knowing how to invoke their remote procedures ([wrapper](https://en.wikipedia.org/wiki/Wrapper_library#Cross-language/runtime_interoperability)), build requests and translate responses ([parser](https://en.wikipedia.org/wiki/Parsing#Parser))
 - **xLedger** will be the module that will work as a [ledger](https://en.wikipedia.org/wiki/Ledger) and [middleware](https://en.wikipedia.org/wiki/Middleware_(distributed_applications)), making it possible to work with different accounts simultaneously
 - **Hazard** will be the module capable of simulating and executing trading strategies, allowing the use of different parameters, in addition to assisting manual trading
