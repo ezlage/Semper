@@ -39,9 +39,9 @@ Any and all suggestions, criticisms and contributions are welcome!
 Get in touch via Issues, Discussions and Pull Requests  
 
 #### Support this initiative!
-BTC: 1Nw2fzDgtXM5X219Q9VtJ7WaSTDPua3oe8
-DASH: XeEuQk3za87DTtNZGkriRXMAJPoMbXNjUA
-LTC: LgMYNhUREb2kgXpBXoybgjtJM7QSNZKs14
-ZEC: t1dtNs9nNphKdLrro3JPzvE2r5E48doboM1
+BTC: 1Nw2fzDgtXM5X219Q9VtJ7WaSTDPua3oe8  
+DASH: XeEuQk3za87DTtNZGkriRXMAJPoMbXNjUA  
+LTC: LgMYNhUREb2kgXpBXoybgjtJM7QSNZKs14  
+ZEC: t1dtNs9nNphKdLrro3JPzvE2r5E48doboM1  
 ERC20*: 0xbc024170e10e097140d4be5c30fd4ed6220cfb57  
 \* Any ERC20 token supported by Binance (ETH, USDC, USDT, etc)
